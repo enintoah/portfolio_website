@@ -3220,3 +3220,11 @@ input, select, textarea {
 			}
 
 	}
+
+	.in-place-of-actual {
+		display: none;
+	}
+
+	.link-to-page:hover {
+		text-decoration: underline;
+	}
